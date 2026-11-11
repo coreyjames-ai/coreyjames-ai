@@ -19,6 +19,10 @@ Site: https://coreyjames.ai/ · MCP server: https://coreyjames.ai/mcp · A2A age
 - [Inference Fabric](https://github.com/coreyjames-ai/inference-fabric) · A throughput-first GPU inference pipeline on consumer NVIDIA hardware: broker, saturated runtime, completion, vector store
 - [PostgreSQL Fabric](https://github.com/coreyjames-ai/postgresql-fabric) · One governed write path for a GPU-scale estate: batches sized from the database's own limits, workers that follow the queue, admission that reads the database's pressure, and the heavy work run inside the database next to its indexes
 
+## Agents
+
+- [Agents that staff a company](https://github.com/coreyjames-ai/portfolio/tree/main/agents) · 426 specialist agents, combined into 88 whole roles · https://coreyjames.ai/agents/
+
 ## Patent families
 
 - Family Five: Verifiable AI action, tool synthesis and governance · provisional application 64/148,105, patent pending
